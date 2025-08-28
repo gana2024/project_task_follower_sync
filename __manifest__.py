@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 {
-    'name': "Project Task Follower Sync",
+    'name': "Cds Task Assignee Update",
     'summary': """
     """,
     'description': """
